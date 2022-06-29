@@ -1,0 +1,685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76987,
+          59.43096
+        ]
+      },
+      "properties": {
+        "transport": "3",
+        "line": "4",
+        "sign": "",
+        "angle": "312",
+        "vehicle_id": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71123,
+          59.43247
+        ]
+      },
+      "properties": {
+        "transport": "1",
+        "line": "5",
+        "sign": "",
+        "angle": "333",
+        "vehicle_id": "329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71124,
+          59.43254
+        ]
+      },
+      "properties": {
+        "transport": "1",
+        "line": "1",
+        "sign": "",
+        "angle": "337",
+        "vehicle_id": "341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70966,
+          59.43174
+        ]
+      },
+      "properties": {
+        "transport": "1",
+        "line": "3",
+        "sign": "",
+        "angle": "165",
+        "vehicle_id": "439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71134,
+          59.43285
+        ]
+      },
+      "properties": {
+        "transport": "1",
+        "line": "1",
+        "sign": "",
+        "angle": "333",
+        "vehicle_id": "446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71077,
+          59.43209
+        ]
+      },
+      "properties": {
+        "transport": "1",
+        "line": "1",
+        "sign": "",
+        "angle": "147",
+        "vehicle_id": "447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7442,
+          59.41835
+        ]
+      },
+      "properties": {
+        "transport": "3",
+        "line": "1",
+        "sign": "",
+        "angle": "171",
+        "vehicle_id": "519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65807,
+          59.41014
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "23",
+        "sign": "",
+        "angle": "133",
+        "vehicle_id": "1099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66024,
+          59.408872
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "23",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "1158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65956,
+          59.41084
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "11",
+        "sign": "",
+        "angle": "29",
+        "vehicle_id": "1164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65953,
+          59.411
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "24A",
+        "sign": "",
+        "angle": "35",
+        "vehicle_id": "1167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66048,
+          59.408852
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "8",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "1180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6577,
+          59.40949
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "41",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "1204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65739,
+          59.40945
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "23",
+        "sign": "",
+        "angle": "31",
+        "vehicle_id": "1222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65762,
+          59.409388
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "21B",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "1262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65855,
+          59.41121
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "13",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "1316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66031,
+          59.409012
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "24A",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "1406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6591,
+          59.409728
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "23",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "1438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65867,
+          59.41071
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "36",
+        "sign": "",
+        "angle": "159",
+        "vehicle_id": "1493"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65803,
+          59.410048
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "40",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "1563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66007,
+          59.4089
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "36",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "1942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6588,
+          59.40982
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "20",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "2032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65963,
+          59.41096
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "1A",
+        "sign": "",
+        "angle": "224",
+        "vehicle_id": "2524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65804,
+          59.41098
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "34A",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "2566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65824,
+          59.40942
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "29",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "2767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84124,
+          59.43136
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "50",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84251,
+          59.432768
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "67",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8406,
+          59.431368
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "67",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84042,
+          59.431568
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "68",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84112,
+          59.431448
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "54",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84104,
+          59.4315
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "15",
+        "sign": "",
+        "angle": "247",
+        "vehicle_id": "3032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84035,
+          59.431628
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "13",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84033,
+          59.43178
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "60",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84023,
+          59.431808
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "60",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84087,
+          59.431568
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "66",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84013,
+          59.431968
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "60",
+        "sign": "",
+        "angle": "174",
+        "vehicle_id": "3182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84049,
+          59.43219
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "51",
+        "sign": "",
+        "angle": "214",
+        "vehicle_id": "3231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84151,
+          59.43163
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "51",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84126,
+          59.431692
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "63",
+        "sign": "",
+        "angle": "999",
+        "vehicle_id": "3322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.88992,
+          59.44482
+        ]
+      },
+      "properties": {
+        "transport": "2",
+        "line": "66",
+        "sign": "",
+        "angle": "69",
+        "vehicle_id": "3780"
+      }
+    }
+  ]
+}
