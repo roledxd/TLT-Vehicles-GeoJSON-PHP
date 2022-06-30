@@ -5,7 +5,7 @@
     $jsonParser = CSVParserFactory::Create("json");
     $jsonParser->IsFirstRowHeader = false;
     $url = "http://transport.tallinn.ee/gps.txt";
-    
+    $HIDE_PARKED = true; //does not show parked vehicles (not in service)
     $json = $jsonParser->Parse($url);
     $features = [];
     $proc = 0;
@@ -19,10 +19,16 @@
         $veh->properties->sign = $vehicle[4];
         $veh->properties->angle = $vehicle[5];
         $veh->properties->vehicle_id = $vehicle[6];
-        $features[] = $veh;
+        
+        if($HIDE_PARKED == true){
+            if($veh->properties->angle !== "999"){
+                $features[] = $veh;
+            }
+        }else{
+            $features[] = $veh;    
+        }
         $proc = $proc + 1;
         $veh = null;
-
     }
     $collection->type = "FeatureCollection";
     $collection->features = $features;
